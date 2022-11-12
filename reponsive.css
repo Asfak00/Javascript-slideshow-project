@@ -1,0 +1,9 @@
+@media screen and (max-width: 370px) {
+  i {
+    font-size: 6rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+}
